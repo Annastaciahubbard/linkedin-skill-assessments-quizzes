@@ -307,7 +307,7 @@
 
 - [ ] Finish-to-Finish (FF)
 - [ ] Start-to-Start (SS)
-- [ ] Start-to-Finish (SF)
+- [x] Start-to-Finish (SF)
 - [ ] Finish-to-Start (FS)
 
 #### Q41. When breaking down the work that needs to be done on a project, what is the smallest unit of work known as?
